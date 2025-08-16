@@ -98,8 +98,8 @@
     <div class="sparkles"></div>
     <div class="heart"></div>
     <div class="message">
-        <h1>✨ Gửi đến bạn! ✨</h1>
-        <p>Chúc bạn luôn vui vẻ, hạnh phúc<br>và tràn đầy năng lượng tích cực!</p>
+        <h1>✨ Gửi đến chị iu ✨<br> Niềm vui mỗi ngày của eim!</h1>
+        <p>Chúc chị luôn vui vẻ, hạnh phúc<br>và tràn đầy năng lượng tích cực! <br> Nữa nè 😜😜😜<br> Chúc chị mãi iu bé hong phai, chúc chị iu bé suốt đời, chúc chị cả đời không dứt được bé ;3 😊💓😘</p>
     </div>
 
     <script>
